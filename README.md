@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @VIBISH-JOE
-- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning B-Tech IT in Sri Krishna College of Engineering and Technology
 - 📫 How to reach me Email: vibishjoe@gmail.com
 
